@@ -37,7 +37,7 @@ index 1a1f4f8..183b3e3 100644
 --- a/include/version.h
 +++ b/include/version.h
 @@ -1 +1 @@
--static const char version[] = "5.9.0";
+-static const char version[] = "5.10.0";
 +static const char version[] = "5.10.0-sx-netdev";
 diff --git a/ip/Makefile b/ip/Makefile
 index 4cad619..46173c3 100644
